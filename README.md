@@ -24,20 +24,20 @@ This project simulates an **ATM (Automated Teller Machine)** system for a bank u
 1. **Clone the repository:**
 
     ```bash
-     https://github.com/ArBhagavath02/ATM-System-in-a-Bank---Java-Project.git
+   https://github.com/ArBhagavath02/ATM-System-in-a-Bank.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd ATM-System
+    cd ATM-System-in-a-Bank.git
     ```
 
 3. **Compile and run the project:**
 
     ```bash
-    javac ATM.java
-    java ATM
+    javac ATMApp.java
+    java ATMApp.java
     ```
 
 ## Project Structure
